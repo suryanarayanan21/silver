@@ -1,3 +1,3 @@
 export type AppState = {
-    count: number;
-}
+  count: number;
+};
