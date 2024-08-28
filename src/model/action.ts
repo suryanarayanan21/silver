@@ -1,4 +1,3 @@
-import { Sample } from "../store/Pieces/sample";
 import { Piece } from "./piece";
 
 export type AppAction<
